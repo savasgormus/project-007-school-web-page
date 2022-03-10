@@ -21,3 +21,5 @@ butonumuza data-bs-target="#id" yazarak bu bağlantıyı sağladık. yine button
 Carousel'leri bootstrap'in kendi web sitesinden kopyalayıp düzenleyeceğiz.
 https://getbootstrap.com/docs/5.0/components/carousel/
 tasarımımıza uygun carousel'i yapıştırdıktan sonra isteğimize göre düzenleyeceğiz. resimlerden başlıyoruz. <img>'lere source ekleyerek 3 resmimizi koyacağız.
+
+Carousellerimize buton ekleyeceğiz. <button class="btn btn-warning"> ile butonumuzu oluşturduk ve rengini verdik.
