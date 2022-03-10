@@ -17,3 +17,7 @@ oluşturduğumuz div'e class="collapse navbar-collapse" verdik. ve bir id verdik
 butonumuza data-bs-target="#id" yazarak bu bağlantıyı sağladık. yine buttonumuza data-bs-toggle="collapse" ile toggle durumunda ne işlem yapacağını belirttik.
 
 --- Carousel ---
+
+Carousel'leri bootstrap'in kendi web sitesinden kopyalayıp düzenleyeceğiz.
+https://getbootstrap.com/docs/5.0/components/carousel/
+tasarımımıza uygun carousel'i yapıştırdıktan sonra isteğimize göre düzenleyeceğiz. resimlerden başlıyoruz. <img>'lere source ekleyerek 3 resmimizi koyacağız.
